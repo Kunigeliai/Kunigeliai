@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+    <title>Kristupo ir Vyčio puslapis</title>
+    <STYLE type="text/css">
+        body{background-color: #7db7c5;}
+        P {font-family: Tahoma;
+           font-size: 15px;
+           color: black;} 
+        H1 {font-family: Tahoma;
+           font-size: 25px;
+           color: #000000;
+           text-align: center;
+           letter-spacing: 2px;}
+        DIV{background-color: rgb(255, 255, 255);
+            width: 820px;
+            border: 2px solid #000000;
+            margin: auto;
+            padding: 5px;}
+       .meniu a{border: 2px solid #000000;
+                text-decoration: none;
+                background-color: rgb(255, 255, 255);
+                color: rgb(0, 0, 0);
+                width: 150px;
+                padding: 4px;
+                margin: 5px;}
+       .meniu a:hover{color: #0088f7;}
+       .meniu {text-align: center;}
+       .centras {text-align: center;}
+        </STYLE>
+</head>
+<body>
+    <div>
+    <p class="meniu">
+        |<a href="jok.html" target="Blank">Viduje bažnyčios </a> |
+        
+
+
+     </p>
+<H1>Vilniaus Šv. Jono Bosko bažnyčia</H1>
+<center>
+    <p> 
+        Vilniaus Šv. Jono Bosko Romos katalikų bažnyčia – bažnyčia, stovinti Vilniuje, Lazdynuose, Erfurto g. 3. 
+        Pradėta statyti 1992 m. Projekto autorius architektas Vytautas Edmundas Čekanauskas (1930-2010). <br>
+        Baigta statyti 2002 m. (bendraautoris architektas Vytenis Gerliakas).<br>
+    <hr>    
+        Parapija įsteigta 1990 m. kovo 12 d. Koplyčia pašventinta 1995 m. sausio 31 d. Bažnyčia pašventinta 2001 m.<br>
+        sausio 28 d. Mišios laikomos lietuvių ir lenkų kalbomis.<br>
+    </p>    
+     <p>
+    <img src="../galerija/Nuotraukos/Jonas.jpg">
+</p>   
+
+</center>
+    <hr>
+    <p class="centras">&copy; 2022, Kristupas ir Vytis </p>
+    </div>
+</body>
+</html>
